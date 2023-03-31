@@ -3,11 +3,14 @@
     "",
     "\\amplify",
     "\\amplify\\backend",
+    "\\amplify\\backend\\api",
+    "\\amplify\\backend\\api\\amplifyreactgraph",
     "\\amplify\\backend\\auth",
+    "\\amplify\\backend\\auth\\amplifyreactgraph58418427",
     "\\amplify\\backend\\types",
     "\\public",
     "\\src"
   ],
-  "SelectedNode": "\\src",
+  "SelectedNode": "\\amplify\\backend\\api\\amplifyreactgraph\\schema.graphql",
   "PreviewInSolutionExplorer": false
 }
